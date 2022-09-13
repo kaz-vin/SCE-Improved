@@ -3,8 +3,8 @@
 **Be advised: The pack is currently under beta testing. Anyone is free to download and use it, but crashes may occur that could disrupt your gameplay.**
 
 ## How to download and install
-1. **(Optional but recommended)** Make sure you have the latest [https://www.optifine.net/downloads](Optifine) installed on a 1.18.2 profile (The current version that Spifftopia is on)
-2. Download the latest zip file release of the pack [https://github.com/kaz-vin/Spifftopia-CE-Plus/releases](here). Make sure to choose the right one to download, the source code will not work unless you know what you're doing.
+1. **(Optional but recommended)** Make sure you have the latest [Optifine](https://www.optifine.net/downloads) installed on a 1.18.2 profile (The current version that Spifftopia is on)
+2. Download the latest zip file release of the pack [here](https://github.com/kaz-vin/Spifftopia-CE-Plus/releases). Make sure to choose the right one to download, the source code will not work unless you know what you're doing.
 3. Steps to install the pack:
 
 	a. Open Minecraft
