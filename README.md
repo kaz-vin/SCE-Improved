@@ -6,11 +6,17 @@
 1. **(Optional but recommended)** Make sure you have the latest [https://www.optifine.net/downloads](Optifine) installed on a 1.18.2 profile (The current version that Spifftopia is on)
 2. Download the latest zip file release of the pack [https://github.com/kaz-vin/Spifftopia-CE-Plus/releases](here). Make sure to choose the right one to download, the source code will not work unless you know what you're doing.
 3. Steps to install the pack:
+
 	a. Open Minecraft
+	
 	b. In Minecraft, click on "Options", then "Resource Packs"
+	
 	c. Choose "Open resource pack folder"
+	
 	d. Move the zip file that you have downloaded to the resourcepack folder
+	
 	e. Go back to Minecraft, the resource pack should now be listed and you can activate it by choosing it and hitting "Done". The game will now reload itself.
+
 	d. Upon reloading, go back to the main menu. It should now change if the pack was installed properly
 	
 ## Optifine Video Settings
