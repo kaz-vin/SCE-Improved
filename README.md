@@ -33,7 +33,7 @@ In Video Settings > Quality. Make sure you have these options enabled:
  - Custom Items: 			On
  - Custom GUIs: 			On
  
- ##Contributing to the resource pack
+ ## Contributing to the resource pack
  Anyone is free to submit their own textures and models to be used in the SCE+ pack. However, it must first get accepted by the SCE dev team. All accepted submissions will be acknowledged for their creations in the credits.txt file.
  Here are guidelines to follow for all submissions:
  1. Submissions must fit within Minecraft's default artsyle.
